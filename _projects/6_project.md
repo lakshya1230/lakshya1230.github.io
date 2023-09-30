@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Maximizing Flows in Cross Traffic Networks
-description: Programmable networks to minimize packet drops.
+title: Temperature Monitoring Using Pt-51 
+description: Course Project = Microprocessor Lab
 img:
 importance: 3
 category: Misc.
 ---
 
-<p align="justify"> This was a course project for the course Advanced Topics in Communication Networks at ETH Zurich, in Autumn 2020. The primary objective was to deliver as much traffic (i.e. maximize the number of successfully delivered packets) as possible for different traffic patterns and failures. FLows could belong to different classes of traffic, which had varying levels of priority.  Flows were sent in a non-deterministic fashion, however the total numnber of flows for each traffic class was fixed. During the network operation, a given number of links would fail pseudo-randomly. </p>
-
-<p align="justify"> One of the main challenges was to detect and handle the mentioned link failures, using traffic engineering methods such as backup Loop Free Alternative (LFA) paths etc. It was also necessary to ensure that less important flows do not kill high priority traffic. Many times, the link capacity was much lower than the required transmission bandwidth, which required smart re-routing of traffic leveraging the programmable P4 data planes. </p>
-
-Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/Cross-Traffic-Flow-Maximization-in-L2L3-Networks"> Code </a>
+<p align="justify"> This was a course project for the course Deep Learning at ETH Zurich, in Autumn 2021. Deep learning models for vision tasks have been shown to work well due to factors like inductive biases, generalization of models and so on. In this project, we explore the possible inductive biases or lack of them across different architectures used in vision tasks such as Convolutional Neural Networks and Transformer architectures. We present a series of experiments which help understand these inductive bias, and their role in helping these models generalize.</p>
 
 
+Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/Inductive-Biases-in-CNNs-vs-Transformers"> Code </a>

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Brain MRI Tumour Segmentation
-description: Course Project - Medical Image Computing
+title: Vital Extraction Challenge
+description: 1st Postion (Gold Medal)
 img: assets/img/architecture_ntt.webp
 importance: 1
-category: Course Projects
+category: InterIIT Tech Meet 11.0
 ---
 
 <p align="justify"> Trained a U-Net architecture for segmentation of the tumour region using a softer version of the Dice Loss in MRI slices.

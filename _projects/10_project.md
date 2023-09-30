@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Brain MRI Tumour Segmentation
-description: Course Project - Medical Image Computing
+title: Semi-Supervised Learning
+description: Supervised Research Exposition - Prof. Amit Sethi
 img: assets/img/architecture_ntt.webp
 importance: 1
 category: Course Projects
