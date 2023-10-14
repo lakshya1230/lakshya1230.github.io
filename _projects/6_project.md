@@ -2,12 +2,15 @@
 layout: page
 title: Temperature Monitoring Using Pt-51 
 description: Course Project = Microprocessor Lab
-img:
+img: assets/img/pt51.jpeg
 importance: 3
 category: Misc.
 ---
 
-<p align="justify"> This was a course project for the course Deep Learning at ETH Zurich, in Autumn 2021. Deep learning models for vision tasks have been shown to work well due to factors like inductive biases, generalization of models and so on. In this project, we explore the possible inductive biases or lack of them across different architectures used in vision tasks such as Convolutional Neural Networks and Transformer architectures. We present a series of experiments which help understand these inductive bias, and their role in helping these models generalize.</p>
+<p align="justify"> Instructor - Prof. V. Rajbabu, Dept. of Electrical Engineering, IIT Bombay <br><br>
+- Used a 10-bit ADC MCP3008 as an interface between the LM35 temperature sensor and the Pt-51 microcontroller board <br>
+- Displayed the real-time temperature on an LCD screen along with the average of past 10 measurements every new second<br>
+- Built an alarm system with LEDs and a speaker to buzz when the temperature goes 2o C away from average temperature<br>
+- Used embedded C language to create a flash-able HEX file onto the Pt-51 microcontroller using the Keil software by ARM</p>
 
 
-Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/Inductive-Biases-in-CNNs-vs-Transformers"> Code </a>

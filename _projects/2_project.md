@@ -2,11 +2,13 @@
 layout: page
 title: Identity Aware Portrait Generation
 description: Course Project - Advanced Machine Learning
-img: assets/img/model.webp
+img: assets/img/cyclegan.png
 importance: 2
 category: Course Projects
 ---
 
-<p align="justify"> In this project, we present a model for a downstream news classification task on a multicategory news dataset. We develop the model using a Transformer based neural network architecture, which we use to classify the news items into its category labelled in the dataset. In the process, we discovered that classifcation of news across categories which overlap in context (e.g. entertainment and comedy) is extremely hard, even with the state-of-the-art word embeddings from Transformers.  </p>
+<p align="justify"> Course Instructor - Prof. Sunita Sarawagi, Dept of Computer Science, IIT Bombay <br> <br>
+- Utilized the CycleGAN model in Image translation to generate portraits preserving the human facial features <br>
+- Proposed a perceptual loss to preserve facial features that uses FaceNet embeddings to guide the generators <br>
+- Achieved an average SSIM of 0.98 using our approach between the human faces and their respective portraits </p>
 
-Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/Attentive-neural-networks-for-news-classification"> Code </a>

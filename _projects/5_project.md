@@ -2,15 +2,14 @@
 layout: page
 title: Iris-based Biometric Security System
 description: Institute Technical Summer Project
-img:
-importance: 3
+img: assets/img/iris.jpg
+importance: 1
 category: Misc.
 ---
 
-<p align="justify"> This was a course project for the course Advanced Topics in Communication Networks at ETH Zurich, in Autumn 2020. The primary objective was to deliver as much traffic (i.e. maximize the number of successfully delivered packets) as possible for different traffic patterns and failures. FLows could belong to different classes of traffic, which had varying levels of priority.  Flows were sent in a non-deterministic fashion, however the total numnber of flows for each traffic class was fixed. During the network operation, a given number of links would fail pseudo-randomly. </p>
-
-<p align="justify"> One of the main challenges was to detect and handle the mentioned link failures, using traffic engineering methods such as backup Loop Free Alternative (LFA) paths etc. It was also necessary to ensure that less important flows do not kill high priority traffic. Many times, the link capacity was much lower than the required transmission bandwidth, which required smart re-routing of traffic leveraging the programmable P4 data planes. </p>
-
-Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/Cross-Traffic-Flow-Maximization-in-L2L3-Networks"> Code </a>
+<p align="justify"> Awarded Special Mention Certificate out of 50+ teams for extraordinary performance at the ITSP 2019 Expo <br> <br>
+- Designed a working model using a Raspberry Pi 3B+ module, IR LED and Hi-Res 5 MP NoIR filter Camera<br>
+- Achieved an accuracy of 95% by testing the device on 100+ individuals during the ITSP Expo 2019<br>
+- Used an IR LED of a wavelength 810 nm for safety of the human eye and better illumination of Iris patterns</p>
 
 

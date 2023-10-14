@@ -2,17 +2,18 @@
 layout: page
 title: Vital Extraction Challenge
 description: 1st Postion (Gold Medal)
-img: assets/img/architecture_ntt.webp
+img: assets/img/vital.png
 importance: 1
 category: InterIIT Tech Meet 11.0
 ---
 
-<p align="justify"> Trained a U-Net architecture for segmentation of the tumour region using a softer version of the Dice Loss in MRI slices.
-Used a Dataset consisting of around 4K MRI slices from 110 patients in TCGA collection from The Cancer Imaging Archive. 
-Achieved an average IOU of 0.77 between the predicted and the true segmentation masks of tumour positive MRI slices.
-Achieved an accuracy of 96.8% on the binary classification of presence of Tumour in Brain MRI slices from validation set</p>
+<p align="justify">Bagged a Gold Medal among 20+ participating IITs <br><br>
+- Employed a YOLOv8 object detection model to extract essential parameters from ECG monitor images <br>
+- Innovatively devised a classification-based segmentation approach to detect the screen corner of ECG monitors, enhancing accuracy in subsequent data extraction<br>
+- Conducted in-depth exploration of OCR techniques, including parseq, ABINet, and PaddleOCR along with
+pioneering a novel technique for generating Heart rate and SpO2 graphs from ECG image data</p>
 
-Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/Network-Traffic-Transformer"> Code </a>
+
 
 
 

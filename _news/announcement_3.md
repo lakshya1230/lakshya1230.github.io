@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-01 16:11:00-0400
+date: 2022-06-20 16:11:00-0400
 inline: true
 ---
 
-Graduated with MSc. in EEIT from ETH Zurich.
+Interned at Qure.ai as a AI Scientist and researched on Self-supervised and Contrastive learning techniques

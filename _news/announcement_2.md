@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-14 16:11:00-0400
+date: 2018-07-23 16:11:00-0400
 inline: true
 ---
 
-Paper titled <b> A new hope for network model generalization</b> presented at ACM HotNets’22.
+Enrolled at the Indian Institute of Technology, Bombay, as a Dual Degree student in the Department of Electrical Engineering

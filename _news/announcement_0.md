@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-26 16:11:00-0400
+date: 2023-07-10 16:11:00-0400
 inline: true
 ---
 
-Joined the University of Chicago as a PhD student in Computer Science. Yess
+Joined as a Software Engineer at Enphase Energy in Bangalore, India

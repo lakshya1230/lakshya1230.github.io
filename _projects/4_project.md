@@ -2,26 +2,13 @@
 layout: page
 title: Blind Super-Resolution
 description: Course Project - Digital Image Processing
-img:
+img: assets/img/superres.png
 importance: 3
 category: Course Projects
 ---
 
-<p align="justify"> This was a course project for the course Network Security at ETH Zurich, in Autumn 2021, where we had to implement a functional ACME client. The <a href="https://tools.ietf.org/html/rfc8555"> Automatic Certificate Management Environment (ACME) protocol </a> aims to facilitate the automation of certificate issuance by creating a standardized and machine-friendly protocol for certificate management. </p>
+<p align="justify"> Instructor - Prof. Suyash Awate, Dept of Computer Science, IIT Bombay <br> <br>
+- Trained a SFTMD Network which outputs a Hi-Res image by taking a low-res image & kernel as the inputs <br>
+- Built a separate Predictor Network for Kernel prediction and a Corrector Network for fine-tuning the kernel <br>
+- Low-resolution images were created by blurring HR images by a Gaussian kernel and then downscaling by 4x</p>
 
-<p align="justify">The task was to write an application that implements ACMEv2. However, to make the application self-contained and in order to facilitate testing, the application needed to have more functionality than a bare ACME client. The concrete requirements for the application were: </p>
-
-The submitted application consisted of the following components:
-- *ACME client:* An ACME client which could interact with a standard-conforming ACME server.
-- *DNS server:* A DNS server which resolved the DNS queries of the ACME server.
-- *Challenge HTTP server:* An HTTP server to respond to the `http-01` queries of the ACME server.
-- *Certificate HTTPS server:* An HTTPS server which used the certificate obtained by the ACME client.
-- *Shutdown HTTP server:*  An HTTP server to receive a shutdown signal.
-
-The requirements for the application were to be able to 
-- use ACME to request and obtain certificates using the `dns-01` and `http-01` challenge (with fresh keys in every run),
-- request and obtain certificates which contain aliases,
-- request and obtain certificates with wildcard domain names, and
-- revoke certificates after they have been issued by the ACME server.
-
-Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/ACME-Client"> Code </a>

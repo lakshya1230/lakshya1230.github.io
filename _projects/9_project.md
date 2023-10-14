@@ -1,18 +1,19 @@
 ---
 layout: page
 title: Ocelot Challenge 2023
-description: Ranked 16th in the Validation set
-img: assets/img/architecture_ntt.webp
+description: Ranked 16th globally in the Validation set
+img: assets/img/ocelot.jpeg
 importance: 1
 category: DDP Thesis
 ---
 
-<p align="justify"> Trained a U-Net architecture for segmentation of the tumour region using a softer version of the Dice Loss in MRI slices.
-Used a Dataset consisting of around 4K MRI slices from 110 patients in TCGA collection from The Cancer Imaging Archive. 
-Achieved an average IOU of 0.77 between the predicted and the true segmentation masks of tumour positive MRI slices.
-Achieved an accuracy of 96.8% on the binary classification of presence of Tumour in Brain MRI slices from validation set</p>
+<p align="justify"> DDP Thesis | Prof. Amit Sethi, Dept. of Electrical Engineering, IIT Bombay <br><br>
+- Utilized various methods for cell detection and classification, including YoloV8 object detection and cell segmentation techniques on the OCELOT dataset consisting of small and large Field-of-View patches from WSIs<br>
+- Developed a unified model with DeepLabV3 architecture for cell and tissue segmentation, leveraging the tissue
+segmentation model’s Large Field-of-View predictions to enhance cell detection and classification<br>
+- Attained a F1-score of 0.67 outperforming the author’s baseline of 0.65 F1-score on an undisclosed validation
+dataset during the Ocelot 2023 Challenge, securing a global ranking of 16th place</p>
 
-Implementation of entire project can be found here: <a href="https://github.com/Siddhant-Ray/Network-Traffic-Transformer"> Code </a>
 
 
 
