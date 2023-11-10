@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temperature Monitoring Using Pt-51 
-description: Course Project = Microprocessor Lab
+description: Course Project - Microprocessor Lab
 img: assets/img/pt51.jpeg
 importance: 3
 category: Misc.
