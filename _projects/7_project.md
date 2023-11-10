@@ -13,7 +13,7 @@ category: InterIIT Tech Meet 11.0
 - Conducted in-depth exploration of OCR techniques, including parseq, ABINet, and PaddleOCR along with
 pioneering a novel technique for generating Heart rate and SpO2 graphs from ECG image data</p>
 
-
+<a href = "https://jay6101.github.io/assets/pdf/InterIIT_PPT.pdf"> [Presentation]</a>
 
 
 

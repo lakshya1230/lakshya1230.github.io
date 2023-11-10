@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocelot Challenge 2023
+title: Ocelot 2023
 description: Ranked 16th globally in the Validation set
 img: assets/img/ocelot.jpeg
 importance: 1

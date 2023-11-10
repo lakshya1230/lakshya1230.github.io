@@ -13,7 +13,7 @@ used a dataset consisting of around 4K MRI slices from 110 patients from The Can
 - Achieved a mean IOU of 0.77 on the validation set between the predicted and the true segmentation masks of
 tumor positive MRI slices and an accuracy of 96.8% on the binary classification of presence of tumor</p>
 
-<a href = "https://jay6101.github.io/assets/pdf/MIC_ppt.pdf"> [Presentation]</a>
+<a href = "https://jay6101.github.io/assets/pdf/MIC_ppt.pdf"> [Presentation]</a><a href = "https://github.com/jay6101/Brain_MRI_tumor_segmentation"> [code]</a>
 
 
 

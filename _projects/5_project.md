@@ -12,4 +12,4 @@ category: Misc.
 - Achieved an accuracy of 95% by testing the device on 100+ individuals during the ITSP Expo 2019<br>
 - Used an IR LED of a wavelength 810 nm for safety of the human eye and better illumination of Iris patterns</p>
 
-
+<a href = "https://jay6101.github.io/assets/pdf/iris.pdf"> [Special Mention Certificate]</a>
