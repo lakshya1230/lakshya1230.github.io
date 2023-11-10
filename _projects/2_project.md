@@ -12,4 +12,4 @@ category: Course Projects
 - Proposed a perceptual loss to preserve facial features that uses FaceNet embeddings to guide the generators <br>
 - Achieved an average SSIM of 0.98 using our approach between the human faces and their respective portraits </p>
 
-<a href = "https://jay6101.github.io/assets/pdf/AML_Final_Report.pdf"> [Report]</a>
+<a href = "https://jay6101.github.io/assets/pdf/AML_Final_Report.pdf"> [Report]</a><a href = "https://github.com/jay6101/Identity_aware_potrait_gen"> [code]</a>
