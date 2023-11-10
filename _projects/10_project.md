@@ -11,7 +11,7 @@ category: Course Projects
 - Compared the Semi-Supervised Learning methods of Ladder Networks, Pi Model and Mean teacher and implemented the Mean Teacher SSL method on the NIH-Chest X-ray dataset using a pretrained DenseNet121<br>
 - Achieved a AUC score of 0.76 using only 10% labelled data as compared to the 0.81 AUC of the baseline</p>
 
-
+<a href = "https://jay6101.github.io/assets/pdf/SRE_presentation.pdf"> [Presentation]</a>
 
 
 

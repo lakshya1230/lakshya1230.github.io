@@ -12,3 +12,4 @@ category: Course Projects
 - Built a separate Predictor Network for Kernel prediction and a Corrector Network for fine-tuning the kernel <br>
 - Low-resolution images were created by blurring HR images by a Gaussian kernel and then downscaling by 4x</p>
 
+<a href = "https://jay6101.github.io/assets/pdf/CS663_presentation.pdf"> [Presentation]</a>
