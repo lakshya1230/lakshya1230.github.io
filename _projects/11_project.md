@@ -12,7 +12,7 @@ category: DDP Thesis
 - Developed a comprehensive WSI profiling system by seamlessly integrating the results from the aforementioned four models, generating a refined and usable mask for analysis<br>
 - Demonstrated exceptional performance by achieving a dice score exceeding 0.7 on 74% of the 11,529 WSIs from the TCGA dataset when comparing our profiler’s results to the standardized HistoQC’s usable masks</p>
 
-<a href = "https://jay6101.github.io/assets/pdf/DDP_Report_18D070050_Jay_Sawant.pdf"> [Dual Degree Report]</a>
+<a href = "https://jay6101.github.io/assets/pdf/DDP_Report_18D070050_Jay_Sawant.pdf"> [Dual Degree Project Report]</a>
 
 
 

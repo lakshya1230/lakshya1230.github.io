@@ -14,7 +14,7 @@ Images (WSIs) into six tissue regions: epithelium, stroma, lymphocytes, adipose,
 image processing-based HistoQC tool and outperformed the later with a higher dice score on 70% of the WSIs<br>
 - Enhanced HistoROI model performance for WSI segregation by implementing Contrastive Learning methods</p>
 
-<a href = "https://jay6101.github.io/assets/pdf/DDP_Report_18D070050_Jay_Sawant.pdf"> [Dual Degree Report]</a><a href = "https://www.sciencedirect.com/science/article/pii/S2153353923001207"> [Paper]</a>
+<a href = "https://jay6101.github.io/assets/pdf/DDP_Report_18D070050_Jay_Sawant.pdf"> [Dual Degree Project Report]</a><a href = "https://www.sciencedirect.com/science/article/pii/S2153353923001207"> [Paper]</a>
 
 
 
