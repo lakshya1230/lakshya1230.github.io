@@ -14,7 +14,7 @@ segmentation model’s Large Field-of-View predictions to enhance cell detection
 - Attained a F1-score of 0.67 outperforming the author’s baseline of 0.65 F1-score on an undisclosed validation
 dataset during the Ocelot 2023 Challenge, securing a global ranking of 16th place</p>
 
-<a href = "https://jay6101.github.io/assets/pdf/DDP_Report_18D070050_Jay_Sawant.pdf"> [Dual Degree Project Report]</a><a href = "https://ocelot2023.grand-challenge.org/"> [Ocelot Challenge 2023]</a>
+<a href = "https://jay6101.github.io/assets/pdf/DDP_Report_18D070050_Jay_Sawant.pdf"> [Dual Degree Project Report]</a><a href = "https://ocelot2023.grand-challenge.org/"> [Ocelot Challenge 2023]</a><a href = "https://github.com/MEDAL-IITB/Cell_detection-OCELOT"> [code]</a>
 
 
 
