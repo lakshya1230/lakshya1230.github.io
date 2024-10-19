@@ -15,11 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="justify">
-Hello, I am Jay Sawant, an alumnus of the prestigious <a href = "https://www.iitb.ac.in/"> Indian Institute of Technology (IIT) Bombay</a>, where I earned a Dual Degree in Electrical Engineering with a specialization in Communication and Signal Processing.
+Hello, I am Jay Sawant, an alumnus of the prestigious <a href = "https://www.iitb.ac.in/"> Indian Institute of Technology (IIT) Bombay</a>, where I earned a Dual Degree in Electrical Engineering with a specialization in Communication and Signal Processing. I am currently pursuing an MS degree in Data Science degree at <a href="https://ucsd.edu"> University of California, San Diego </a>
 </p>
 
 
-<p align="justify">My thesis research centered on the exploration of deep learning applications in the fields of Histopathology and Medical Imaging. Specifically, I concentrated on advancing these domains by developing innovative techniques for the Quality Control of Whole Slide Images (WSI). This encompassed the identification and removal of artifacts, leading to improved performance of deep learning models and streamlining the analytical processes performed by pathologists.</p>
+<p align="justify">My M.Tech thesis research at IIT Bombay centered on the exploration of deep learning applications in the fields of Histopathology and Medical Imaging. Specifically, I concentrated on advancing these domains by developing innovative techniques for the Quality Control of Whole Slide Images (WSI). This encompassed the identification and removal of artifacts, leading to improved performance of deep learning models and streamlining the analytical processes performed by pathologists.</p>
 
 <p align="justify">  </p>
 
