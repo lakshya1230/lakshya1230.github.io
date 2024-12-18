@@ -4,7 +4,7 @@ title: Efficient quality control of WSIs
 description: Journal of Patholgy Informatics
 img: assets/img/efficient.jpg
 importance: 1
-category: DDP Thesis
+category: DDP Thesis (IITB)
 ---
 
 <p align="justify"> DDP Thesis | Prof. Amit Sethi, Dept. of Electrical Engineering, IIT Bombay <br><br>

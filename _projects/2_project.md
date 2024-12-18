@@ -4,7 +4,7 @@ title: Identity Aware Portrait Generation
 description: Course Project - Advanced Machine Learning
 img: assets/img/cyclegan.png
 importance: 2
-category: Course Projects
+category: Projects (IITB)
 ---
 
 <p align="justify"> Course Instructor - Prof. Sunita Sarawagi, Dept of Computer Science, IIT Bombay <br> <br>

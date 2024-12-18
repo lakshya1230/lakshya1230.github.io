@@ -4,7 +4,7 @@ title: Brain MRI Tumour Segmentation
 description: Course Project - Medical Image Computing
 img: assets/img/mri.png
 importance: 1
-category: Course Projects
+category: Projects (IITB)
 ---
 
 <p align="justify"> Instructor - Prof. Suyash Awate, Dept of Computer Science, IIT Bombay <br><br>

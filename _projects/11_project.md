@@ -4,7 +4,7 @@ title: QC tool Development
 description: Development of Quality Control tool for pathologists
 img: assets/img/qc_tool.png
 importance: 3
-category: DDP Thesis
+category: DDP Thesis (IITB)
 ---
 
 <p align="justify"> DDP Thesis | Prof. Amit Sethi, Dept. of Electrical Engineering, IIT Bombay <br><br>

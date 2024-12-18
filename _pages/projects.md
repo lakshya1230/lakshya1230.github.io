@@ -5,7 +5,7 @@ permalink: /projects/
 description: #Some of the most interesting projects I have worked on.
 nav: true
 nav_order: 2
-display_categories: [DDP Thesis, InterIIT Tech Meet 11.0, Course Projects, Misc.]
+display_categories: [Projects (UCSD), DDP Thesis (IITB), Projects (IITB), Misc.]
 horizontal: false
 ---
 

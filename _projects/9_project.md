@@ -4,7 +4,7 @@ title: Ocelot 2023
 description: Ranked 16th globally in the Validation set
 img: assets/img/ocelot.jpeg
 importance: 1
-category: DDP Thesis
+category: DDP Thesis (IITB)
 ---
 
 <p align="justify"> DDP Thesis | Prof. Amit Sethi, Dept. of Electrical Engineering, IIT Bombay <br><br>

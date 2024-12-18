@@ -4,7 +4,7 @@ title: Blind Super-Resolution
 description: Course Project - Digital Image Processing
 img: assets/img/superres.png
 importance: 3
-category: Course Projects
+category: Projects (IITB)
 ---
 
 <p align="justify"> Instructor - Prof. Suyash Awate, Dept of Computer Science, IIT Bombay <br> <br>

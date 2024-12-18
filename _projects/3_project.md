@@ -4,7 +4,7 @@ title: Adversarial Attacks on ASR Systems
 description: Course Project - Automatic Speech Recognition
 img: assets/img/asr.jpg
 importance: 3
-category: Course Projects
+category: Projects (IITB)
 ---
 
 <p align="justify"> Instructor - Prof. Preethi Jyothi, Dept of Computer Science, IIT Bombay <br><br>

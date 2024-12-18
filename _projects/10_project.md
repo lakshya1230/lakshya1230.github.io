@@ -4,7 +4,7 @@ title: Semi-Supervised Learning
 description: Supervised Research Exposition - Prof. Amit Sethi
 img: assets/img/semisup.png
 importance: 1
-category: Course Projects
+category: Projects (IITB)
 ---
 
 <p align="justify"> Supervised Research Exposition | Prof. Amit Sethi, Dept. of Electrical Engineering, IIT Bombay <br><br>

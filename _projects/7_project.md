@@ -4,7 +4,7 @@ title: Vital Extraction Challenge
 description: 1st Postion (Gold Medal)
 img: assets/img/vital.png
 importance: 1
-category: InterIIT Tech Meet 11.0
+category: Projects (IITB)
 ---
 
 <p align="justify">Bagged a Gold Medal among 20+ participating IITs <br><br>
