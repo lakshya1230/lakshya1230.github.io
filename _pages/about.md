@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: newpp.png
+  image: newpp.jpg
   image_circular: true # crops the image to make it circular
   address: >
 
@@ -19,7 +19,9 @@ Hello, I am Jay Sawant, an alumnus of the prestigious <a href = "https://www.iit
 </p>
 
 
-<p align="justify">My M.Tech thesis research at IIT Bombay centered on the exploration of deep learning applications in the fields of Histopathology and Medical Imaging. Specifically, I concentrated on advancing these domains by developing innovative techniques for the Quality Control of Whole Slide Images (WSI). This encompassed the identification and removal of artifacts, leading to improved performance of deep learning models and streamlining the analytical processes performed by pathologists.</p>
+<p align="justify">My M.Tech thesis research at IIT Bombay centered on the exploration of deep learning applications in the fields of Histopathology and Medical Imaging. Specifically, I concentrated on advancing these domains by developing innovative techniques for the Quality Control of Whole Slide Images (WSI).</p>
+
+<p align="justify">Currently, I am working as a Graduate Student Researcher at the Lab of Cognitive Imaging, UCSD Health, developing novel deep learning algorithms to detect Temporal Lobe Epilepsy in T1-weighted 3D brain MRIs.</p>
 
 <p align="justify">  </p>
 
