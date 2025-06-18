@@ -2,9 +2,10 @@ github_users:
   - jay6101
 
 github_repos:
+  - jay6101/p2p_tryon
+  - jay6101/MED277_QnA_App
   - jay6101/Brain_MRI_tumor_segmentation
   - jay6101/Blind-Super_Resolution
   - jay6101/Adversarial_Attack_on_ASR_System
   - jay6101/EE451_SRE
   - jay6101/Identity_aware_potrait_gen
-  - jay6101/Flight_Delay_Predictor

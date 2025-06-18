@@ -2,7 +2,7 @@
 layout: page
 title: 3D Brain MRI Synthesis
 description: Conditional Latent Diffusion Model for Synthetic 3D Brain MRI Generation to Enhance Temporal Lobe Epilepsy Detection
-img: assets/img/diffusion.png
+img: assets/img/diffusion_2.png
 importance: 1
 category: Projects (UCSD)
 ---
