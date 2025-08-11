@@ -15,13 +15,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="justify">
-Hello, I am Jay Sawant, an alumnus of the prestigious <a href = "https://www.iitb.ac.in/"> Indian Institute of Technology (IIT) Bombay</a>, where I earned a Dual Degree in Electrical Engineering with a specialization in Communication and Signal Processing. I am currently pursuing an MS degree in Data Science degree at <a href="https://ucsd.edu"> University of California, San Diego </a>
+Hello, I am Jay Sawant, a Master's student in Data Science at <a href="https://ucsd.edu">University of California, San Diego</a>. I am also an alumnus of the prestigious <a href="https://www.iitb.ac.in/">Indian Institute of Technology (IIT) Bombay</a>, where I earned a Dual Degree in Electrical Engineering with a specialization in Communication and Signal Processing.
 </p>
 
+<p align="justify">
+I am currently a Graduate Student Researcher at the Lab of Cognitive Imaging, UCSD Health, where I am developing a conditional latent diffusion pipeline for generating high-fidelity, class-specific synthetic 3D brain MRIs. This work supports downstream classification tasks, such as detecting Temporal Lobe Epilepsy in T1-weighted MRI scans.
+</p>
 
-<p align="justify">My M.Tech thesis research at IIT Bombay centered on the exploration of deep learning applications in the fields of Histopathology and Medical Imaging. Specifically, I concentrated on advancing these domains by developing innovative techniques for the Quality Control of Whole Slide Images (WSI).</p>
-
-<p align="justify">Currently, I am working as a Graduate Student Researcher at the Lab of Cognitive Imaging, UCSD Health, developing novel deep learning algorithms to detect Temporal Lobe Epilepsy in T1-weighted 3D brain MRIs.</p>
+<p align="justify">
+My M.Tech thesis research at IIT Bombay focused on deep learning applications in Histopathology and Medical Imaging, particularly developing innovative techniques for Quality Control of Whole Slide Images (WSI) using active learning and segmentation methods.
+</p>
 
 <p align="justify">  </p>
 
